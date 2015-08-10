@@ -9,6 +9,35 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var timer = NSTimer()
+    var count = 0
+    
+    func updateTime(){
+        count++
+        time.text = "\(count)"
+        
+    }
+    
+    
+    
+    @IBOutlet var time: UILabel!
+    
+    
+    @IBAction func pause(sender: AnyObject) {
+        
+    }
+    
+    
+    @IBAction func stop(sender: AnyObject) {
+        
+    }
+    
+    
+    @IBAction func play(sender: AnyObject) {
+        timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: Selector("updateTime"), userInfo: nil, repeats: true)
+        
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
