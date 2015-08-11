@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80E72C80-0851-4A4E-BA45-132705B71761</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCD9102067D7B2988299C4B75AD770DB5208CDAC</key>
+		<string>https://github.com/sleepingpandacoder/Stopwatch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Stopwatch.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCD9102067D7B2988299C4B75AD770DB5208CDAC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sleepingpandacoder/Stopwatch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCD9102067D7B2988299C4B75AD770DB5208CDAC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCD9102067D7B2988299C4B75AD770DB5208CDAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Stopwatch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
